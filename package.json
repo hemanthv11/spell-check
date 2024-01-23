@@ -1,0 +1,12 @@
+{
+  "name": "spell-check",
+  "version": "0.0.1",
+  "description": "Spell Check module using wagner fischer algorithm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "RLion",
+  "license": "ISC"
+}
