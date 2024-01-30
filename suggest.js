@@ -36,6 +36,9 @@ export const suggest = {
             }
         }
         return matrix[n][m]
+    },
+    addPriorities: (suggestions, string) => {
+        let suggestionsWithPriorities = []
     }
 }
 
